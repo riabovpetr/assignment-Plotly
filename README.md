@@ -24,18 +24,16 @@ The dataset contains:
 ## 📈 Main Visualization
 The core visualization is a **line chart (Plotly)** showing:
 - Average Democracy Index by region over time  
-- Russia as a separate highlighted line  
+- Russia as a separate highlighted line
 
-### Insight:
-> Global democracy trends are not uniform — regions follow different trajectories, and Russia shows a noticeable divergence from broader regional patterns.
+![Preview](plot.PNG)
 
----
+👉 [Interactive version](https://riabovpetr.github.io/assignment-Plotly/index.html)
 
-## 🧠 Key Findings
-- Europe consistently maintains the highest democracy levels  
-- Africa and Asia show lower and more stable scores  
-- No strong global convergence is observed  
-- Russia demonstrates a declining or stagnating trend compared to other regions  
+### Insights and Findings:
+- Global democracy trends are not uniform — regions follow different trajectories, and Russia shows a noticeable divergence from broader regional patterns.
+- The average democracy index has declined across all regions, most sharply in North America, by nearly a full point, and in South America, by about half a point, over the past 18 years.
+- During the same period, **Russia’s democracy index has plummeted dramatically, falling by three points, compared with a modest decline of 0.3 points in Europe and 0.3 points in Asia**.
 
 ---
 
